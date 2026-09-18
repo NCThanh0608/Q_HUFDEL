@@ -1,6 +1,6 @@
 # Các bước demo dự án
 ## Bước 1: Export môi trường ESP-IDF
-- & 'c:\Users\THANH\.vscode\extensions\espressif.esp-idf-extension-2.0.2\export.ps1'
+- & 'c:\Users\THANH\.vscode\extensions\espressif.esp-idf-extension-2.1.0\export.ps1'
 ## Bước 2:
 - chạy lệnh python run_test.py 
 - Sau đó nhập model muốn update: VD Lenet 300-100 từ 3 lên version 6 thì sẽ nhập 30036
